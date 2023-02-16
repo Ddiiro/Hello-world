@@ -48,8 +48,6 @@ Hello Microverse is a project that helps test and learn and the basic set up of 
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - Html.
 - Css.
 - Linter.
@@ -111,7 +109,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -124,8 +121,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Desktop view]**
 - [ ] **[contact form]**
